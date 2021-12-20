@@ -3,18 +3,31 @@
   text-align: center;
   border: 3px solid green;
 }
+
 body{
   background-color: orange;
+  text-align: center;
+
 }
+
 h1{
    padding-left: 250px;
-color: red;}
-h2{
-	padding-left: 250px; 
-color: blue;}
-img{
-padding-left: 50px;}
-li{padding-left: 50px; 
+   color: red;
 }
-iframe{padding-left: 50xp; 
+
+h2{
+   padding-left: 250px; 
+   color: blue;
+}
+
+img {
+ padding-left: 50px;
+}
+
+li{
+ padding-left: 50px; 
+}
+
+iframe{
+  padding-left: 50xp; 
 }
